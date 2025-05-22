@@ -1,0 +1,65 @@
+// นำเข้ารูปภาพทั้งหมด
+import img1 from './IMG_4846.jpeg';
+import img2 from './IMG_4145.jpeg';
+import img3 from './IMG_4588.jpeg';
+import img4 from './IMG_4581.jpeg';
+import img5 from './IMG_4766.jpeg';
+import img6 from './IMG_4026.jpeg';
+import img7 from './IMG_4870.jpeg';
+import img8 from './IMG_4879.jpeg';
+import img9 from './IMG_4579.jpeg';
+import img10 from './IMG_4587.jpeg';
+import img11 from './IMG_4578.jpeg';
+import img12 from './IMG_4883.jpeg';
+import img13 from './164F57C1-D196-4FFD-A3D9-F2B0EAEEF4F4.jpeg';
+import img14 from './E39CFF20-FB87-4DB9-8564-6E60FD803D70.jpeg';
+import img15 from './ABC460C5-A528-43BB-8EF5-58F11FC9EB5F.jpeg';
+import img16 from './7DAB739B-926C-47C0-9755-C781DF368C68.jpeg';
+import img17 from './1DE9DE04-8C8F-451E-B9A6-A447FE27C7AB.jpeg';
+import img18 from './C311A263-0EF4-48DE-AAF9-67A3AAA3C807.jpeg';
+import img19 from './EB1F7E12-B769-45BA-B124-BC58A31BC7EE.jpeg';
+import img20 from './quality_restoration_25680126192143390.png';
+import img21 from './BE4E0E5E-7D16-4130-9DB2-EFAF18FB512C.jpeg';
+import img22 from './C8EBF51D-18B7-412E-B276-8B311D8C8DA2.jpeg';
+import img23 from './BED130F1-20EB-4729-88EC-3EFD4AC7E7D8.jpeg';
+import img24 from './DCCDB5F2-A693-49B1-A6D3-A3512511D714.jpeg';
+import img25 from './CA8AE5F1-2978-42E8-839C-18EA88EB7944.jpeg';
+import img26 from './quality_restoration_25680112183518111.png';
+import img27 from './D4FA08C8-C915-47EF-9C4A-FAFB239386E3.jpeg';
+import img28 from './F8069E20-1AB1-47A3-8E1E-0900D9A74304.jpeg';
+import img29 from './05BCE25E-C40D-45EF-9988-C716D611E249.jpeg';
+import img30 from './IMG_25680216202840449.png';
+
+// รวมรูปภาพทั้งหมด
+export const allImages = [
+  { image: img1 },
+  { image: img2 },
+  { image: img3 },
+  { image: img4 },
+  { image: img5 },
+  { image: img6 },
+  { image: img7 },
+  { image: img8 },
+  { image: img9 },
+  { image: img10 },
+  { image: img11 },
+  { image: img12 },
+  { image: img13 },
+  { image: img14 },
+  { image: img15 },
+  { image: img16 },
+  { image: img17 },
+  { image: img18 },
+  { image: img19 },
+  { image: img20 },
+  { image: img21 },
+  { image: img22 },
+  { image: img23 },
+  { image: img24 },
+  { image: img25 },
+  { image: img26 },
+  { image: img27 },
+  { image: img28 },
+  { image: img29 },
+  { image: img30 },
+]; 
