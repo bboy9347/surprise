@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import testImage from '../assets/test.png';
+import testImage from '../assets/gallery/DCCDB5F2-A693-49B1-A6D3-A3512511D714.jpeg';
 import toast, { Toaster } from 'react-hot-toast';
 
 const Lock = () => {
