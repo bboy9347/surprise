@@ -1,41 +1,39 @@
 // นำเข้ารูปภาพทั้งหมด
-import img1 from './IMG_4846.jpeg';
-import img2 from './IMG_4145.jpeg';
-import img3 from './IMG_4588.jpeg';
-import img4 from './IMG_4581.jpeg';
-import img5 from './IMG_4766.jpeg';
-import img6 from './IMG_4026.jpeg';
-import img7 from './IMG_4870.jpeg';
-import img8 from './IMG_4879.jpeg';
-import img9 from './IMG_4579.jpeg';
-import img10 from './IMG_4587.jpeg';
-import img11 from './IMG_4578.jpeg';
-import img12 from './IMG_4883.jpeg';
-import img13 from './164F57C1-D196-4FFD-A3D9-F2B0EAEEF4F4.jpeg';
-import img14 from './E39CFF20-FB87-4DB9-8564-6E60FD803D70.jpeg';
-import img15 from './ABC460C5-A528-43BB-8EF5-58F11FC9EB5F.jpeg';
-import img16 from './7DAB739B-926C-47C0-9755-C781DF368C68.jpeg';
-import img17 from './1DE9DE04-8C8F-451E-B9A6-A447FE27C7AB.jpeg';
-import img18 from './C311A263-0EF4-48DE-AAF9-67A3AAA3C807.jpeg';
-import img19 from './EB1F7E12-B769-45BA-B124-BC58A31BC7EE.jpeg';
-import img20 from './quality_restoration_25680126192143390.png';
-import img21 from './BE4E0E5E-7D16-4130-9DB2-EFAF18FB512C.jpeg';
-import img22 from './C8EBF51D-18B7-412E-B276-8B311D8C8DA2.jpeg';
-import img23 from './BED130F1-20EB-4729-88EC-3EFD4AC7E7D8.jpeg';
-import img24 from './DCCDB5F2-A693-49B1-A6D3-A3512511D714.jpeg';
-import img25 from './CA8AE5F1-2978-42E8-839C-18EA88EB7944.jpeg';
-import img26 from './quality_restoration_25680112183518111.png';
-import img27 from './D4FA08C8-C915-47EF-9C4A-FAFB239386E3.jpeg';
-import img28 from './F8069E20-1AB1-47A3-8E1E-0900D9A74304.jpeg';
-import img29 from './05BCE25E-C40D-45EF-9988-C716D611E249.jpeg';
-import img30 from './IMG_25680216202840449.png';
+import img1 from './IMG_4145.jpeg';
+import img2 from './IMG_4579.jpeg';
+import img3 from './164F57C1-D196-4FFD-A3D9-F2B0EAEEF4F4.jpeg';
+import img5 from './ABC460C5-A528-43BB-8EF5-58F11FC9EB5F.jpeg';
+import img6 from './7DAB739B-926C-47C0-9755-C781DF368C68.jpeg';
+import img7 from './1DE9DE04-8C8F-451E-B9A6-A447FE27C7AB.jpeg';
+import img8 from './EB1F7E12-B769-45BA-B124-BC58A31BC7EE.jpeg';
+import img9 from './quality_restoration_25680126192143390.png';
+import img10 from './BE4E0E5E-7D16-4130-9DB2-EFAF18FB512C.jpeg';
+import img11 from './C8EBF51D-18B7-412E-B276-8B311D8C8DA2.jpeg';
+import img12 from './DCCDB5F2-A693-49B1-A6D3-A3512511D714.jpeg';
+import img13 from './CA8AE5F1-2978-42E8-839C-18EA88EB7944.jpeg';
+import img14 from './quality_restoration_25680112183518111.png';
+import img15 from './F8069E20-1AB1-47A3-8E1E-0900D9A74304.jpeg';
+import img16 from './05BCE25E-C40D-45EF-9988-C716D611E249.jpeg';
+import img17 from './IMG_25680216202840449.png';
+import img18 from './C24BF5A7-3552-4367-84A3-0535E6103612.jpeg';
+import img19 from './BD6DE1A6-8C9A-49CD-A9B8-81509841CCD8.jpeg';
+import img20 from './1BC5D480-52C9-49B8-9D8B-960AA9934B74.jpeg';
+import img21 from './1C5B124D-3A60-4BC8-A194-450F42E71BAF.jpeg';
+import img22 from './7ABB80A5-48D1-4D25-B3D1-D109750380C9.jpeg';
+import img23 from './D9E114FD-12B8-491A-8673-1890443C1CA8.jpeg';
+import img24 from './383E05DE-2964-4F82-A658-B051C0B3D3F7.jpeg';
+import img25 from './ABC0FF15-25BB-479A-831B-79F39951503F.jpeg';
+import img26 from './91D9B90D-DB87-451D-8FA9-EE1EF8498B8D.jpeg';
+import img27 from './F45C798F-17FE-4ABE-82BD-4DB331345D55.jpeg';
+import img28 from './CD835676-A6D8-4664-9ABF-45254EF3A8B4.jpeg';
+import img29 from './1C62E8B3-2018-44BB-B6B7-4B6B970AF3D9.jpeg';
+import img30 from './IMG_4766.jpeg';
 
 // รวมรูปภาพทั้งหมด
 export const allImages = [
   { image: img1 },
   { image: img2 },
   { image: img3 },
-  { image: img4 },
   { image: img5 },
   { image: img6 },
   { image: img7 },
@@ -61,5 +59,5 @@ export const allImages = [
   { image: img27 },
   { image: img28 },
   { image: img29 },
-  { image: img30 },
+  { image: img30 }
 ]; 

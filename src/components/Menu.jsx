@@ -1,7 +1,9 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import testImage from '../assets/test.png';
-
+import menu1 from '../assets/menu/1.png';
+import menu2 from '../assets/menu/2.png';
+import menu3 from '../assets/menu/3.png';
+import menu4 from '../assets/menu/4.png';
 const Menu = () => {
   const navigate = useNavigate();
 
@@ -9,25 +11,25 @@ const Menu = () => {
     {
       title: 'Our Memories',
       description: 'every moment of us',
-      image: testImage,
+      image: menu1,
       path: '/Gallery'
     },
     {
       title: 'Love Calendar',
       description: 'Counting days of our love story',
-      image: testImage,
+      image: menu2,
       path: '/Timeline'
     },
     {
       title: 'Love Puzzle',
       description: 'Piece by piece of our love',
-      image: testImage,
+      image: menu3,
       path: '/puzzle'
     },
     {
       title: 'Love Note',
       description: 'Write down our love story',
-      image: testImage,
+      image: menu4,
       path: '/note'
     }
   ];
